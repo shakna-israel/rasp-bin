@@ -23,3 +23,23 @@ If you are a project maintainer and would like it removed, please open an [Issue
 ---
 
 Disclaimer: I created this for ease-of-distrib for myself. It's probably not a great idea.
+
+---
+
+## Usage
+
+All ```pex``` files work as is.
+
+For example, to load a Python interpreter with pex inside it:
+
+Open the pex folder (```cd pex```):
+
+```
+./pex.pex
+```
+
+They can also be loaded dynamically by python:
+
+```python
+import pex
+```
