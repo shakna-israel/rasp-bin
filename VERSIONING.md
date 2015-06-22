@@ -1,7 +1,6 @@
 # Versioning
 
-```MAJOR.ADAPTIVE.MINOR```
-
+MAJOR.ADAPTIVE.MINOR
 
 ## MINOR
 
